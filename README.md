@@ -7,8 +7,8 @@
 
 
 2、所以在这一步下载图片这里直接不下载，到后面也不替换它
-![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/1.png)
-![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/1.png)
+![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/2.png)
+![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/3.png)
 
 3、最后看看效果，把原来的网页链接替换成了本地相对路径，使用hexo搭建博客可直接使用。
-![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/1.png)
+![images](https://github.com/mrknow001/markdown-links-replace/blob/main/images/4.png)
